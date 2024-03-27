@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TheNebulaDev
-- 👀 I’m interested in making games and stuff related to them
-- 🌱 I’m currently learning programing and making games in godot (and scratch too thougth im more focused on godot)
-- ✨ I’m looking to collaborate on stuff related to godot
-- 📫 How to reach me: ContactTheNebulaCreatorproton.me@proton.me
-- 🎬 Other forms of reaching out to me: My youtube channel it has content related to game development and games (I will soon start uploading english content💫)
+- 👋 Hi, I’m @Nebulized or nebula (Whatever you prefer)
+- 👀 I’m interested in making games and other coding projects
+- 🌱 I’m currently learning general programing, godot and bevy
+- ✨ I’m looking to collaborate on coding projects
+- 📫 How to reach me: None
+- 🎬 Other forms of reaching out to me: None
 
 <!---
 TheNebulaDev/TheNebulaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
